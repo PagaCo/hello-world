@@ -1,2 +1,4 @@
 # hello-world
-This is my first repository I just decided to do this to have one.
+Just another repository
+
+I am a new aspiring game developer looking to create horror games.
